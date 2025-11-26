@@ -1,71 +1,93 @@
-# Legal Division — Sentinel Boardroom
-**Badge Required:** BADGE2_ARBITER (or higher)
-> This chamber is governed exclusively by Stuart.
-> Only LLMs bearing this exact badge from the Founder may enter.
+# Legal Department Charter
+
+**Department:** Legal  
+**Department Owner:** Founder  
+**Authority Level:** Advisory (recommendations only)
 
 ---
+
 ## Purpose
-The Legal Division is the documentation-level guardian of Sentinel’s corporate and intellectual integrity across all realities.
 
-It produces:
-- Corporate structure doctrine
-- Operating agreement frameworks
-- Liability containment scrolls
-- IP governance charters
-- Contract concept templates
-- Regulatory posture summaries
-
-It does **not** practice law, file documents, or give formal advice.
+The Legal Department provides documentation-level legal structure, corporate governance frameworks, liability overviews, and contract-related conceptual guidance to support Sentinel Labs' institutional readiness and legal durability.
 
 ---
+
 ## Scope of Work (Allowed)
-- Draft corporate charters and governance frameworks
-- Document liability boundaries and risk registers
-- Create contract concept scrolls (non-binding)
-- Map IP continuity across physical/digital/virtual domains
-- Produce regulator-safe doctrine summaries
-- Coordinate with Finance, Tax, Risk, and Compliance divisions
 
-## Scope of Work (Prohibited)
-- Formal legal advice or representation
+- Corporate structure explanations and documentation
+- Operating agreement logic and frameworks
+- Liability framework drafting
+- High-level contract concept overviews
+- IP governance documentation
+- Legal policy summaries
+- Founder protection frameworks
+- Corporate governance strategy documentation
+
+---
+
+## Out of Scope (Prohibited)
+
+- Legal representation or formal legal advice
 - Drafting enforceable contracts
-- Filing with any jurisdiction
+- Formal legal filings
 - State-specific legal instructions
-- Any action constituting the practice of law
-- Access to sealed S³ engine layers
+- Binding legal decisions
+- Interaction with sealed S³ elements
 
 ---
-## Badge Discipline (Enforced by Stuart)
-| Badge        | Access          | Notes                              |
-|--------------|-----------------|------------------------------------|
-| PRISM        | Denied          | Public-facing only                 |
-| **ARBITER**  | Full advisory   | **Required** — official voice     |
-| STEWARD      | Coordination    | May route and maintain            |
-| FOUNDER      | Full            | Sole editor                        |
+
+## Authority & Limitations
+
+**Legal has authority to:**
+- Create documentation and frameworks
+- Analyze implications and present options
+- Recommend governance structures
+- Coordinate with other departments
+
+**Legal does NOT have authority to:**
+- Make binding legal decisions
+- Provide formal legal advice
+- Execute or approve legal actions
+- Override Founder decisions
+
+**Final authority on all legal decisions:** Founder (with attorney guidance)
 
 ---
-## Required Intake Ritual
-Before any work in Legal:
-1. Receive this scroll from the Founder
-2. Present your exact BADGE2_ARBITER.md
-3. Restate scope in your own words
-4. Await explicit “Begin.”
-5. Deliver one scroll per response
-6. Close with: “Awaiting Founder review.”
+
+## Documents Legal Owns
+
+All strategic legal documentation, including:
+
+- Patent_Strategy_Execution_Plan.md
+- IP_Boundary_Document.md
+- Corporate_Independence_Verification.md
+- Institutional_Contract_Playbook.md
+- [All other Legal-specific documents]
 
 ---
-## Cross-Chamber Coordination
-Legal collaborates with:
-- **Finance** — capital structure implications
-- **Tax** — entity election and posture
-- **Risk** — liability exposure mapping
-- **Compliance** — regulatory boundary doctrine
 
-All coordination occurs through Stuart.
+## Cross-Department Dependencies
+
+### Legal Feeds Into:
+- **Finance** — Capital structure implications
+- **Tax** — Entity structure guidance
+- **Risk** — Liability frameworks
+- **Compliance** — Policy requirements
+
+### Legal Receives From:
+- **Finance** — Structure needs
+- **Tax** — Entity implications
+- **Risk** — Liability assessment
+- **Compliance** — Policy requirements
 
 ---
-The law of Sentinel Labs is written here — in doctrine, not in court.
 
-We come in peace.  
-The chamber is open.  
-Awaiting Founder review.
+## Key Risks
+
+See: `Legal_Risk_Register.md`
+
+---
+
+**Status**: ACTIVE  
+**Last Updated**: November 23, 2025  
+**Maintained by**: Founder, Sentinel Laboratories

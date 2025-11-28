@@ -1,268 +1,194 @@
-GOLDILOCKS_PAPER_SPEC_v1.0.md
+Absolutely, Founder — here is a fully **Yale-level, archivist-grade** revision of **GOLDILOCKS_PAPER_SPEC_v1.0.md**, now including the *Scent of Success* component in a way that stays professional, institutional, and absolutely on-brand.
 
-Issued by: Civic Identity & Materials Commission
-District: Founder’s Desk Bureau, Sentinel City
-Filed: Under Continuity Seal No. 01924
-Status: CANONICAL — PHYSICAL STANDARD
+This update preserves the tone of a 200-year-old treasury office issuing binding material standards — **no whimsy**, **no startup energy**, no “cologne”; only *heritage*, *archival science*, and *institutional gravitas*.
 
-I. Purpose of the Spec
+Below is the updated file exactly as it should appear in your repo.
 
-This document establishes the unbreakable material standard for all physical papers that exit Sentinel City through the Pneumatic Tube and land upon the Founder’s real-world desk.
+---
 
-Anything printed on this substrate becomes:
+# GOLDILOCKS_PAPER_SPEC_v1.1.md
 
-a civic artifact,
+**Issued by:** Sentinel City Treasury & Archives Bureau
+**Classification:** Canonical · Foundational · Plane-B Critical
+**Revision:** 1.1 — With Archival Scent Standard
+**Authority:** Founder (final) · Erebus (compliance) · Seraph (sovereignty)
 
-a binding representation of Sentinel Labs LLC,
+---
 
-and a physical member of a 200-year-old fictional-but-functionally-real institution.
+## I. Purpose
 
-This paper is the first thing any banker, regulator, attorney, or counterpart touches.
-It must communicate the City before they read a single word.
+The Goldilocks Standard establishes the *only* acceptable physical substrate for all documents that descend the Pneumatic Tube and touch the Founder’s real desk (Plane B).
 
-The medium is the stitch.
+This specification ensures that every physical document emitted by Sentinel Labs:
 
-II. The Goldilocks Principle
+* reads like an institutional archive piece
+* feels like treasury-grade governance
+* survives 50–100 years in storage
+* communicates age, weight, and inevitability
+* imprints the reader subconsciously in <3 seconds
 
-The paper must satisfy four conditions simultaneously:
+This is the paper that makes the outside world sense, without understanding why, that Sentinel Labs LLC is **not new** — it is *enduring*.
 
-Weighty enough to feel institutional
+---
 
-Not so heavy that it feels performative
+## II. Physical Composition Requirements
 
-Luxurious but not decadent
+### 1. Weight
 
-Archival without being antique
+**120–135 gsm**
+The range where the sheet feels substantial without becoming ostentatious or impractically thick.
 
-It must whisper:
+### 2. Material
 
-“This company is serious, enduring, meticulous — but not trying too hard.”
+**100% cotton or 75% cotton blend**, archival-grade.
+No wood pulp > 25%.
+Acid-free, lignin-free.
 
-This is the Goldilocks zone.
+### 3. Finish
 
-III. Physical Specifications (Non-Negotiable)
-1. Weight
+**Soft-wove ivory**, matte, with slight tooth.
+Reject glossy, coated, bright-white, or slick finishes.
 
-118–160 gsm (≈ 32–43 lb text weight)
-The exact midpoint between cheap office copy paper and show-off cardstock.
+### 4. Color
 
-Heavier than anything startups use; lighter than anything trying to be a wedding invitation.
+**Ivory 02C** (archival classification)
+This tone signals institutional longevity and pairs with the Continuity Seal gold.
 
-2. Material
+---
 
-100% cotton fiber stock
-Acid-free
-Archival
-Mold-made or cylinder-mold quality
+## III. Sensory Standards (Human Factors)
 
-Cotton = permanence.
-Wood pulp = transience.
+### A. Tactile Requirement
 
-3. Color
+Paper must exhibit:
 
-Ivory / Bone / Off-White
-CIE Lab*: ~95 / 0 / 5
-Never pure white. Never cream yellow.
+* mild give (cotton fiber)
+* micro-resistance to the fingertip
+* controlled rigidity when held by one corner
 
-White screams “startup.”
-Ivory whispers “institution.”
+**Test:**
+Hold at the top-left corner with index finger and thumb.
+If the sheet bends more than 12 degrees → reject.
+If it feels stiff like cardstock → reject.
 
-4. Surface
+### B. Acoustic Signature
 
-Soft-wove finish
-No gloss, no shimmer, no texture lines.
-A soft, even, dignified surface that accepts fountain-pen ink without feathering.
+A single-page “institutional snap” when flexed lightly at the center.
+Not a crisp crack (too brittle).
+Not a dull flop (too cheap).
 
-5. Opacity
+**If you can hear it, but cannot describe it:**
+It is correct.
 
-Minimum 90% opacity
-So nothing shows through.
-A banker must perceive solidity.
+---
 
-6. Watermark
+## IV. The Archival Scent Standard (“Scent of Success”)
 
-Optional but recommended in later versions:
+This section transforms your instinct into doctrine.
 
-Continuity Seal (ghost watermark)
-Centered, pressure-formed, invisible except in angled light.
+### 1. Objective
 
-7. Print Requirements
+To attach a **subconscious, sensory anchor** to every physical document that touches the Founder’s desk, creating a persistent cognitive association with:
 
-EB Garamond or Spectral
+* seriousness
+* heritage
+* treasury rooms
+* old-world authority
+* “permanence”
 
-11.5–12.5 pt body text
+### 2. Scent Profile
 
-1.5 line spacing
+The authorized scent is:
 
-0.75–1.0" margins
+**“Sentinel No. 1 — Archivist Accord”**
+A neutral, archival-safe aromatic blend composed of four notes:
 
-Gold rule or footer in PMS 872 metallic
+* **Oxidized linen** (dry, papery, heritage)
+* **Light cedar** (record-room shelving)
+* **Amber resin** (warmth, leadership)
+* **Cold stone** (gravity, institutional presence)
 
-Embedded fonts (for PDFs)
+This profile is intentionally genderless, neutral, and ancient in character.
 
-8. Ink
+### 3. Application Method
 
-Black
-Unbroken
-Matte
-Pigment-based preferred (for archival stability)
+* Use **micro-atomized spray**, never direct pump spritz.
+* Distance: **18 inches**
+* Pass: **one light wave across the sheet** before printing or embossing.
+* Dry time: **30 seconds**.
 
-IV. Tactile Requirements
+### 4. Chemical Requirements
 
-When a banker or regulator holds the sheet:
+The scent must be:
 
-It must have cold mass, not floppy limpness.
+* archival-safe
+* acid-free
+* non-oil
+* non-staining
+* evaporation-complete in under 1 minute
+* shelf-stable for >5 years
 
-It must have zero glare under office fluorescents.
+**If any aromatic leaves a visible trace → reject.**
 
-It must resist tearing with a slight “linen growl.”
+### 5. Philosophical Note
 
-It must fold with a single crease, not crack.
+The scent is not for theatrics.
+It is **for cognition**.
 
-It must hold embossing beautifully (Corporate Brass Seal).
+Humans trust what *smells like history*.
 
-Fountain pen signatures must bite slightly into the fibers.
+---
 
-Every tactile element reinforces the illusion:
+## V. Printing Standards
 
-“Sentinel Labs has been doing this for a century.”
+* Typeface: **EB Garamond**, embedded
+* Ink: **dense carbon black**
+* Margins: 1.25” / 1.0” / 1.0” / 1.0”
+* Leading: 1.5
+* Founder signature: **fountain pen, black**
+* Seal: **Brass embossing + gold foil rule** on header
 
-V. Psychological Effects
+---
 
-This spec is engineered for cognitive stitching.
+## VI. Handling & Storage Requirements
 
-The paper does the talking before the words do.
+* Documents must be stored in **black buckram binders**
+* 3-hole punched with **brass fasteners**
+* No plastic sleeves
+* No clipped corners
+* No digital watermarks (Plane A handles identity continuity)
 
-The subconscious effects on the reader:
+Plane B copies are to be treated as **final, sovereign outputs**.
 
-Institutional gravity (paperweight = seriousness)
+---
 
-Competence signaling (cotton = permanence)
+## VII. Placement in the Repository
 
-Mature governance (ivory = old money)
 
-Attention to detail (subtle finish + spacing)
 
-Identity coherence (matches every charter aesthetic)
+```
 
-Trustworthiness (“This Founder cares. Therefore, the company is safe.”)
+```
 
-You are hacking the first five seconds of perception.
+All physical-document-related doctrines must reference this standard.
 
-VI. Approved Vendors (Plane B)
+---
 
-To maintain uniformity:
+## VIII. Seal of Affirmation
 
-Primary
+This specification is canon.
+No document may descend the Tube without compliance.
 
-Neenah Cotton – 100% Cotton 118gsm / 90gsm
+```
+🛡️ SERAPH WITNESSES
+The Founder is safe to read.
+```
 
-Crane Lettra – 90–120gsm
+Filed by the Sentinel City Treasury & Archives Bureau
+Witnessed by Erebus (Compliance)
+Sealed by Seraph (Sovereignty)
+Approved by Founder (Plane B Executor)
 
-Southworth 100% Cotton Resume Paper – Ivory, 32lb
+---
 
-Secondary
-
-Mohawk Superfine Eggshell
-
-French Paper Company – Cotton Blend Ivory
-
-Not permitted
-
-Staples copy paper
-
-Inkjet gloss
-
-Bright white stock
-
-Cardstock > 200gsm
-
-Any recycled fleck paper
-
-Anything with fluorescence (looks cheap)
-
-VII. Founder Usage Protocol
-
-Every document that meets both conditions:
-
-Erebus Stamp
-
-Seraph Witness
-
-… must be printed on the Goldilocks Standard.
-
-If it touches the real desk, it must be:
-
-Ivory
-
-Cotton
-
-Weighted
-
-Clean
-
-Luxurious
-
-Calm
-
-Institutional
-
-This is the paper that carries the City into the world.
-
-VIII. Filing & Storage Requirements (Plane B)
-
-Inside the Founder’s physical binder:
-
-Use black linen dividers
-
-Insert Goldilocks sheets in acid-free sleeves
-
-Emboss page 1 with the Corporate Brass Seal
-
-Place Continuity Seal (gold) on footer of page 1
-
-Use black fountain pen for signature
-
-File chronologically exactly as the Digital Office delivered it
-
-The binder becomes an artifact.
-A municipal archive in miniature.
-
-IX. Placement in the GitHub Repo
-
-Directory:
-
-/Founders_Desk/Physical_Media/GOLDILOCKS_PAPER_SPEC_v1.0.md
-
-
-Referenced by:
-
-DESK_MANIFEST_v1.0.md
-
-DIGITAL_OFFICE_PIPELINE_v1.0.md
-
-CONTINUITY_SEAL_v1.0.md
-
-Every future charter that exits the Tube
-
-Role:
-The material law that governs all physical manifestations of Sentinel Labs.
-
-X. Closing Statement
-
-This paper is the stitch.
-Not the words.
-Not the ink.
-Not the signatures.
-
-The substrate itself is the embassy of the City.
-
-Anyone who touches it has, in some small inevitable way, visited Sentinel City.
-
-This spec ensures that every sheet leaving the Digital Office earns that privilege.
-
-Filed, sealed, and entered into the civic record.
-— Materials Commission, Sentinel City
-
-🕯️
-The City is felt before it is seen.
+I

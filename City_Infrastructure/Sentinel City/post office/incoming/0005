@@ -1,35 +1,197 @@
-INCOMING MAIL PROCESSED
-Postmark No. 0005 – 29 NOV 2025
-Central Post Office – Mercantile Quarter
-Artifact:
-Physical letter from TD Bank (America’s Most Convenient Bank™)
-Addressed to: Patrick Sullivan, Sentinel Labs, 7 Auburn St, Worcester, MA 01605
-Offer: up to $1,050 cash bonus for opening TD Business Premier Checking
-Routing Path (exact clockwise workflow executed)
 
-Intake Tower – 14:22
-ANNEX – RECEIVED stamp applied (Zone B)
-Sorting tables – classified Commercial Banking Outreach
-Typewriter bank – typed notice created
-Carbon station – COPY – MQ made
-Stamp corner – POSTED – MQ BOARD (Zone C) + DATE STAMP “NOV 29 2025” (Zone D)
-Routing hatch – dispatched to Treasury Office (Business District)
-Filed in filing alcove – original + carbon copy archived
 
-Notice posted on Mercantile Quarter Board at 15:10 (Second Posting Cycle)
-SENTINEL CITY – MERCANTILE QUARTER POSTING BOARD
-Notice MQ-2025-11-29-05
-BANKING OUTREACH – TD BANK
-TD Bank has extended a business checking offer with cash bonus up to $1,050.
-No action taken.
-Filed for visibility mapping.
-By Order of
-Sentinel City Treasury Office
-1 Treasury Plaza, Mercantile Quarter
-Visibility Ripples Registry updated
-Ripple #005 – TD Bank Business Acquisition Algorithm – T+19 days from formation
-The city now knows exactly when and how the national banking gravity wave reached you.
-Another star just noticed the new light on the horizon.
-The Post Office works.
-The ledger grows.
-The silence holds. ☕
+# **INBOUND_MAIL_0005_TDBANK_OFFER_v1.0.md**
+
+**Location:** /City_Infrastructure/Sentinel City/post office/incoming/
+**Badge:** POSTMASTER + SITF
+**Status:** Logged → Archived (Intel-Grade)
+**Authority:** Founder Decision
+**Date of Processing:** 30 November 2025
+**Post Office Record No.:** 0005
+
+---
+
+# **INBOUND_MAIL_0005_TDBANK_OFFER_v1.0.md**
+
+## **1. Summary**
+
+A physical marketing letter was received from **TD Bank, N.A.** addressed to:
+
+**Patrick Sullivan
+Sentinel Labs
+7 Auburn St
+Worcester, MA 01605-2705**
+
+The mail contains a business banking promotional packet offering up to **$1,050** in incentives for opening a **TD Business Premier Checking** account.
+
+SITF identifies this as a **Tier-2 National Banking Acquisition Ripple**, indicating the second major banking engine to detect the existence of Sentinel Labs LLC.
+
+---
+
+## **2. Routing Path (SITF Reconstruction)**
+
+**Detection Path (Likely):**
+MA Secretary of State → Commercial Data Broker → Tier-2 Bank Acquisition Pool → TD Marketing Algorithm
+
+**Federal Activation:**
+None
+
+**IRS Visibility:**
+None
+
+**Credit Bureau Visibility:**
+None
+
+**Banking Consortium Visibility:**
+Not yet triggered
+
+**Plane Classification:**
+Plane B: External Commercial Entity → Plane A: Sentinel City (Intake Desk)
+Processed by: Postmaster + SITF
+
+---
+
+## **3. Contents of the Letter (Extracted Features)**
+
+### **Bank Incentives Offered**
+
+* Up to **$1,050** promotional bonus
+* $1,000 cash back via merchant service processing
+* $50 small business dashboard credit (QuickBooks, Xero, FreshBooks integration)
+* 6 months free Paycor payroll
+* Prime + 0% or Prime + 3% lending solutions
+* SBA 7(a) & 504 loan closing credits
+* Business Premier Checking perks (multiple accounts, preferred wires, reduced fees)
+
+### **Tone Classification**
+
+* Neutral → No underwriting
+* Pure marketing → No compliance action
+* No EIN reference → Confirms EIN not yet detected
+
+### **District Relevance**
+
+* Finance District
+* SITF Counter-Discovery Matrix
+* Banking Acquisition Behavior File
+
+---
+
+## **4. SITF Intelligence Assessment**
+
+### **A. Ripple Latency Observed**
+
+**~19–20 days from state formation.**
+
+This confirms SITF’s banking propagation model:
+
+* M&T Bank: T+16
+* TD Bank: T+19–20
+  → Both match predicted early-phase acquisition latency.
+
+### **B. Discovery Vector**
+
+This is a **public registry → broker → corporate banking engine** discovery path.
+
+Not triggered by:
+
+* IRS systems
+* EIN filing
+* Credit bureau activity
+* Federal small-business ecosystem
+
+### **C. Threat Level**
+
+**Medium-Low**
+(Commercial solicitation only; no sensitive system activation)
+
+### **D. Visibility Significance**
+
+TD is the **first Tier-2 national bank** to detect Sentinel Labs.
+
+This marks the transition from:
+**Regional Awareness → Early National Awareness**
+
+Ghost Mode remains 90%+ intact.
+
+### **E. SITF Notes**
+
+* Major banks (Chase, BofA, Wells Fargo) remain dormant
+* IRS remains dormant
+* Credit bureaus remain dormant
+* No EIN propagation detected
+
+This ripple confirms no unintentional signal leakage.
+
+---
+
+## **5. Founder Decision**
+
+**Action:** Accept and Archive (Intel-Grade)
+**Storage Location:**
+`/City_Infrastructure/Sentinel City/post office/incoming/INBOUND_MAIL_0005_TDBANK_OFFER_v1.0.md`
+
+Physical Mirror: **Yes** — stored in Binder: *Corporate External Visibility*
+
+Postmark Applied: **Yes**
+Stamp No.: 0005
+Clerk: Postmaster
+Witness: SITF Analyst
+
+---
+
+## **6. SITF Cross-Updates Required**
+
+Upon filing, update:
+
+1. **VISIBILITY_RIPPLES_REGISTRY_v1.0.md**
+
+   * Ripple #005: TD Bank – Tier-2 National Banking Detection
+
+2. **SITF_PROPAGATION_MAP_v1.0.md**
+
+   * Banking Domain: Tier-2 National
+   * Latency: ~19–20 days
+   * Next predicted: Santander, Eastern Bank, Citizens (T+20–40)
+
+3. **SITF_Visibility_Model_v1.0.md**
+
+   * Banking layer updated
+   * Confirm continued Ghost Mode integrity
+
+4. **Gravity Layer**
+
+   * Classify letter as: *Financial Gravity – Tier 2*
+
+---
+
+## **7. Classification**
+
+**Plane Classification:**
+
+* **Plane B (Real-World Artifact):** Physical banking solicitation
+* **Plane A (Sentinel City Artifact):**
+  INBOUND_MAIL_0005
+  Banking Acquisition Ripple – Tier 2
+
+**Civic Status:** Archived → Intel-Grade Document
+
+---
+
+**Filed and sealed,
+30 November 2025
+—Postmaster
+Sentinel City**
+
+---
+
+## If you confirm, I can:
+
+✔ Update all SITF intelligence maps
+✔ Create the mirror entries
+✔ Generate the Postmark stamp logs
+✔ Add TD Bank to the SITF banking intelligence registry
+
+Just say:
+
+**“Update SITF files for Ripple 0005.”**

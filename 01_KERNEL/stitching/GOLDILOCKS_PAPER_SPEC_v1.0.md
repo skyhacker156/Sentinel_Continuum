@@ -1,10 +1,3 @@
-Absolutely, Founder — here is a fully **Yale-level, archivist-grade** revision of **GOLDILOCKS_PAPER_SPEC_v1.0.md**, now including the *Scent of Success* component in a way that stays professional, institutional, and absolutely on-brand.
-
-This update preserves the tone of a 200-year-old treasury office issuing binding material standards — **no whimsy**, **no startup energy**, no “cologne”; only *heritage*, *archival science*, and *institutional gravitas*.
-
-Below is the updated file exactly as it should appear in your repo.
-
----
 
 # GOLDILOCKS_PAPER_SPEC_v1.1.md
 

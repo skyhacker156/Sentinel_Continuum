@@ -64,4 +64,50 @@ The transmittal includes confirmation of submission of:
 4. Abstract  
 5. Drawings / Figures  
 6. Glossary of Terms  
-7. Equation Appendix / Technical C
+7. Equation Appendix / Technical Compendium  
+8. Signed Inventor Oath/Declaration  
+9. (Optional) USB Drive w/ duplicate materials
+
+This confirms the **first formal patent act** taken by the Founder toward S³.
+
+---
+
+## 5. Civic Classification in Sentinel City
+
+This document is designated:
+
+### **FOUNDATIONAL INTELLECTUAL RELIC**  
+Category: **Scrolls of Invention**  
+Sub-category: **Genesis File – S³ Lineage**
+
+This marks the moment when the Founder’s private research became a filing recognized by a federal office.  
+The city acknowledges this as the **origin of its intelligence lineage**.
+
+---
+
+## 6. Archival Summary
+
+- Physical Copy A → Founder Binder (Plane B – legal original)  
+- Physical Copy B → Parthenon Annex, Invention Shelf  
+- Digital Twin → `/post office/incoming/`  
+- Postmarked Record → This scroll  
+
+Both worlds now possess a synchronized copy.  
+This completes the Convergence Stitch for Mail No. 0002.
+
+---
+
+## 7. Cross-Plane Statement
+
+The USPTO letter has no civic authority in Sentinel City,  
+but its presence confirms the Founder’s intent to establish  
+a formal intellectual foundation for Sentinel’s operation.
+
+This is the City’s first encounter with federal infrastructure.
+
+---
+
+Logged, stamped, and archived this 29th day of November, 2025.
+
+**—Postmaster**  
+Sentinel City  

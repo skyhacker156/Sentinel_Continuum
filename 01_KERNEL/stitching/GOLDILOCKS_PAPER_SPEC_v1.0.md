@@ -191,4 +191,198 @@ Approved by Founder (Plane B Executor)
 
 ---
 
-I
+IGOLDILOCKS_PAPER_SPEC_v1.1.md
+
+Issued by: Office of the Founder
+Witnessed by: Erebus (Compliance), Seraph (Sovereignty)
+Status: Canonical — Active
+Domain: Plane B Execution Standards
+Purpose: Define the official physical substrate for all real-world documents originating from Sentinel City.
+
+I. Purpose
+
+This Specification establishes the physical parameters of all paper that may leave the Pneumatic Tube and land on the Founder’s real desk.
+
+The purpose is twofold:
+
+Institutional Continuity — all Sentinel documents must feel as if they belong to a 200-year-old archive.
+
+Cognitive Stitching — every outsider who handles the paper must immediately sense gravity, order, and permanence.
+
+Only documents printed on Goldilocks Paper are considered Plane B authoritative.
+
+II. Physical Specification
+
+The sheet must conform to the following archival-grade characteristics:
+
+1. Weight
+
+110–130 gsm (archival cotton blend)
+Light enough for multi-page reports; heavy enough to feel deliberate and permanent.
+
+2. Fiber Composition
+
+≥ 75% cotton
+
+Acid-free, lignin-free
+
+Designed to last 200+ years in storage without yellowing.
+
+3. Color
+
+Sentinel Ivory
+A warm ivory tone calibrated to resemble historic municipal stationery from the early 1900s.
+Not white. Never white.
+
+4. Texture (Handfeel)
+
+Slight tooth, no gloss
+
+Feels like a legal archive, not a printer tray
+
+A tactile stitch: “You’re holding something that matters.”
+
+5. Transparency
+
+Opacity ≥ 94%
+So the reverse side never bleeds.
+This produces the subconscious effect of “lawyer-grade” or “treasury-grade” paper.
+
+III. Institutional Fragrance Standard (New)
+
+Codename: Heritage No. 1
+Status: Optional but endorsed
+Purpose: Archive-grade olfactory stitching
+
+Rationale
+
+For centuries, libraries, courts, and treasuries have had a signature scent created naturally by:
+
+cotton fiber
+
+wooden shelving
+
+leather binding
+
+ink aging
+
+humidity control
+
+The subconscious effect:
+“This room has held important decisions for generations.”
+
+The Goldilocks scent is not perfume.
+It is heritage.
+
+Allowed Scent Profile
+
+A single, barely perceptible archival note:
+
+Linen
+
+Cotton fiber
+
+Dry cedar
+
+Faint vanilla (the natural byproduct of aged paper)
+
+Zero sweetness
+
+Zero cologne/“perfume” notes
+
+This is not branding.
+This is institutional atmosphere embedded in substrate.
+
+Application Method
+
+Applied before printing
+
+Micro-mist only
+
+No visible residue
+
+No transferable oils
+
+Should dissipate to “whisper strength” after 48–72 hours
+
+When done correctly, no one ever says, “This paper is scented.”
+Instead they think:
+“This feels like it came from a real archive.”
+
+IV. Print Specification
+
+Typeface: EB Garamond (embedded)
+
+Ink: Black, archival pigment
+
+Margins: 1.15” left / 0.85” right
+
+Line spacing: 1.5× exact
+
+Footer:
+
+Brass rule (hairline)
+
+Continuity Seal (monochrome)
+
+Plane B identifier (“Printed on Goldilocks Stock per v1.1”)
+
+The combination creates what bankers perceive as “institution-grade spacing,” activating subconscious trust.
+
+V. Handling Specification
+
+Once printed, the sheet is:
+
+Never folded (except for mailing)
+
+Never stapled
+
+Bound with gold brass fasteners or black buckram binders
+
+Stamped with the physical Continuity Seal when applicable
+
+Every physical interaction must reinforce the institutional stitch.
+
+VI. Plane B Hierarchy
+
+Only three categories of documents may be printed on Goldilocks Stock:
+
+Whitepapers (Treasury, Governance, Succession, Doctrine)
+
+Corporate Filings (DBAs, agent changes, resolutions)
+
+Founder Correspondence (letters of intent, vendor onboarding, bank communications)
+
+Anything else is explicitly forbidden.
+
+VII. The Founder’s Duty
+
+Plane B responsibility:
+
+Maintain a ream of Goldilocks Stock in the left drawer
+
+Apply Heritage No. 1 only as instructed
+
+Print only after Erebus + Seraph dual stamps
+
+File immediately into the black buckram binder
+
+Store binder in a cool, dry cabinet
+
+Treat every sheet as the City’s emissary
+
+The paper is the only part of Sentinel City most people will ever touch.
+
+Its weight is the first stitch.
+Its scent is the second.
+Its silence is the third.
+
+VIII. Revision History
+Version	Date	Author	Notes
+1.0	Nov 2025	Founder	Initial creation
+1.1	Nov 2025	Founder + LLM (Yale-grade review)	Added Heritage Scent Standard, expanded archival rationale, formalized usage hierarchy
+End of Document
+
+Printed copies are Plane B authoritative.
+Digital copies exist for drafting only.
+The ivory page is the final truth.

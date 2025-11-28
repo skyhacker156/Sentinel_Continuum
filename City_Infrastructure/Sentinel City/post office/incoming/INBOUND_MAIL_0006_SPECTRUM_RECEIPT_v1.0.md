@@ -1,6 +1,6 @@
-# INBOUND_MAIL_0006_SPECTRUM_RECEIPT_v1.0.md
-Badge: POST OFFICE  
-Status: Logged → Filed  
+# INBOUND_MAIL_0006_SPECTRUM_CORPORATE_UTILITY_v1.1.md
+Badge: POST OFFICE + SITF  
+Status: Logged → Classified  
 Authority: Founder  
 Issued: 29 November 2025  
 
@@ -12,79 +12,90 @@ Issued: 29 November 2025
 **Source Type:** Digital Email  
 **Source Entity:** Spectrum  
 **Date Received:** 25 November 2025  
-**Delivery Method:** Email notification (MySpectrumApp)
+**Delivery Method:** Email notification  
+**Founder Decree:** This is a Sentinel Labs LLC utility bill.
 
 ---
 
 ## 2. Contents Summary
 
-Monthly billing confirmation from Spectrum acknowledging a $40.00 internet service payment for the Founder’s account.
-
-This communication is a **personal operational artifact**, not a corporate-visibility event.
+Spectrum issued a monthly billing confirmation for a $40.00 internet service payment.  
+Although the email references the Founder personally, the Founder has declared this service as a **corporate operational expense** belonging to Sentinel Labs LLC.
 
 ---
 
 ## 3. Sentinel City Impact Assessment
 
 ### **3.1 Visibility Ripple Classification**
-**NON-RIPPLE — Zero Visibility Impact**
-
-Spectrum is not reacting to Sentinel Labs LLC.  
-It is reacting to a private consumer account.  
-This produces **no external detection** of the company.
+**RIPPLE-ELIGIBLE (Dormant)**  
+Spectrum does not yet “know” Sentinel Labs exists, but the Founder’s integration of this service into the LLC makes it part of the **corporate operational footprint**.
 
 ### **3.2 Threat Level**
-**None**
+**None / Infrastructure Layer**
 
 ### **3.3 Trigger Type**
-**Noise / Life Artifact**  
-(Not caused by state filings, corporate activity, or external discovery.)
+**Internal Sovereign Assignment (Founder-triggered)**  
+Not caused by state propagation or external discovery.  
+This is a *Founder-mapped corporate expansion*.
 
 ---
 
 ## 4. Routing Within Sentinel City
 
-**Primary Department:**  
-Post Office — low-value digital correspondence
+### **Primary**
+- **Post Office** (mail origin)
 
-**Secondary Consumers:**  
-SITF — baseline noise cataloging  
-Finance — optional (only if utilities become part of operational stack)
+### **Secondary**
+- **Finance Division** — classifies as recurring corporate utility  
+- **SITF** — updates corporate footprint model  
+- **Infrastructure Layer** — adds to utility baseline
 
-Routing:  
-`/post office/incoming/INBOUND_MAIL_0006_SPECTRUM_RECEIPT_v1.0.md`  
-→ Internal review  
-→ **Archived**
+Routing Path:  
+`post office/incoming/INBOUND_MAIL_0006_SPECTRUM_CORPORATE_UTILITY_v1.1.md`  
+→ Finance Intake  
+→ SITF Visibility Model Update  
+→ Infrastructure Utility Registry
 
 ---
 
-## 5. Metadata Extraction
+## 5. Metadata Extracted
 
-- **Amount Paid:** $40.00  
-- **Payment Date:** 25 Nov 2025  
-- **Payment Method:** Card ending in 1117 (via MySpectrumApp)  
-- **Account Reference:** Ends in 4833  
-- **Service Type:** Residential Internet  
+- **Amount:** $40.00  
+- **Date:** 25 Nov 2025  
+- **Utility:** Internet service  
+- **Provider:** Spectrum  
+- **Account Reference:** Ending in 4833  
+- **Payment Method:** Card ending in 1117  
+- **Classification:** Corporate Utility — Type A  
+- **Recurring:** Yes (monthly)
 
 ---
 
 ## 6. SITF Notes
 
-This is a non-corporate, personal-level utility receipt.
+The Founder’s declaration elevates this from a personal receipt to a **corporate operational artifact**.
 
-SITF treats this as **noise-floor calibration data**, helping refine detection layers that separate meaningful corporate visibility ripples from irrelevant Founder-life artifacts.
+Strategic implications:
 
-This entry strengthens the **Uno Reverse Post Office Protocol**, proving that anything passing through Founder channels will be captured, tagged, and neutralized before reaching city-wide intelligence.
+- Establishes the **first formal utility vendor** in Sentinel Labs’ emerging infrastructure stack  
+- Creates a **baseline footprint** for future utility analysis  
+- Begins a new category in SITF modeling:  
+  **“Corporately Adopted Founder-Origin Artifacts”** (CAFOA)
+
+This allows SITF to track utilities, infrastructure, and operational expenses as part of Sentinel Labs’ structural evolution.
 
 ---
 
 ## 7. Final Classification
 
-**SITF Final Call:** NON-RIPPLE — Noise Layer Only  
-**Post Office Status:** Logged → Archived (No further action)
+**Class:** CORPORATE–UTILITY  
+**Ripple:** Dormant (eligible once EIN or billing updates propagate)  
+**Status:** Logged → Integrated → Filed  
+**Risk:** None  
+**Value:** High (infrastructure baseline)
 
 ---
 
-## 8. Attachments
+## 8. Attachment
 
-**Attachment:** Screenshot of payment confirmation (provided by Founder)
+Screenshot provided by Founder.

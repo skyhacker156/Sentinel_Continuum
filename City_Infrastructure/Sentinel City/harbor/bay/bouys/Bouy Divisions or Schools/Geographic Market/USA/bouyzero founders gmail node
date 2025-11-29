@@ -1,1 +1,51 @@
 # this is the first bouy in the ocean
+it contains manually parsed emails from founder's email that have to do with trade accounts or accounts that are in the process of switching from founders name
+to the company's name, in other words these emails are mostly current founder relationships but will soon be fully Sentinel Labs LLC relationships. 
+
+# bouyzero_founders_gmail_node.md
+
+## 1. Node Definition
+This node represents the first operational buoy record in the United States market branch.
+It stores manually parsed information derived from the Founder’s email account that relates to
+accounts, vendors, and services that are in the process of transitioning to Sentinel Labs LLC.
+
+## 2. Purpose
+The node provides a centralized record of:
+- existing vendor relationships prior to formal incorporation
+- accounts currently registered under the Founder’s personal name
+- accounts that will be migrated to Sentinel Labs LLC as entity onboarding completes
+- email-based interactions relevant to trade accounts, billing, onboarding, or authentication
+
+## 3. Scope of Data
+This node may contain:
+- vendor names
+- account types
+- service categories
+- transition status indicators
+- notes derived from Founder-to-vendor email exchanges
+
+This node does **not** contain:
+- raw emails
+- personal content unrelated to company onboarding
+- private communications outside the scope of business account migration
+
+## 4. Transition Objective
+All relationships tracked in this node are expected to become formal Sentinel Labs LLC accounts.
+The node exists to ensure a complete and ordered migration process as entity creation,
+vendor onboarding, and buoy deployment proceed.
+
+## 5. Relationship Classification
+Each entry should include:
+- vendor/service name
+- current registration state (personal / mixed / converting / complete)
+- required actions (if any)
+- target Sentinel Labs LLC address or buoy endpoint
+- date of last related communication
+
+## 6. Node Status
+Status: ACTIVE  
+Region: USA  
+Branch: Geographic Market → USA → Foundational Relationships  
+Issued by: Founder  
+Last Updated: *(11.29.25)*
+

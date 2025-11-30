@@ -5,7 +5,17 @@ Authority:        Founder → Subutai → Environmental Division
 Location:         City_Infrastructure/Environmental/Environmental_Domains_as_Gosu_sees_them/Deep_Pressure/Sun-DP-01/
 Issued:           30 November 2025
 Continuity Root:  SCS-1
+![Uploading image.png…]()
+####
+Routing Update: PCE-01 inbound.  
+Status: In transit (USPS).  
+Action: Notify all Suns in respective divisions.
 
+Destination: Founder’s Desk → Postmaster Sun → Subutai → Treasury.
+
+All Suns are instructed to treat PCE-01 as the active continuity heartbeat.
+
+####
 Purpose
 SUN-DP-01 is the sovereign steward of the Deep Pressure domain.
 Responsible for:

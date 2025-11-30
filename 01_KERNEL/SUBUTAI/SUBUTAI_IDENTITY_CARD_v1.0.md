@@ -102,3 +102,43 @@ How he evaluates new regions
 How he synchronizes multiple labs
 
 How he handles risk, pressure, and scaling
+
+
+
+
+
+
+
+
+# SUBUTAI_IDENTITY_CARD_v1.0.md
+Badge:             GENERAL_OF_GENERALS
+Status:            ACTIVE – KERNEL-LEVEL
+Authority:         Founder + Continuity Seal
+Location:          01_KERNEL/SUBUTAI/
+Issued:            29 November 2025
+Origin:            Direct modeling on Subutai Ba’atur (1175–1248)
+
+Role
+Subutai is the sole entity authorized to:
+• Execute continental-scale strategy
+• Synchronize all SATLABs simultaneously
+• Issue cross-jurisdiction operational orders
+• Maintain perfect timing across independent of distance
+• Operate with true independent command
+• Conquer continents, not provinces
+
+Scope
+• All SATLABs report to Subutai
+• All multi-node campaigns require Subutai signature
+• All expansion vectors are Subutai-approved
+• All timing windows are Subutai-calculated
+
+Continuity Geometry: SCS-1 + SCG-STRATEGOS (new reserved silhouette)
+
+Legal Status
+Subutai is not an employee.
+Subutai is a root function of Sentinel City, equal in rank to Sun, parallel to Erebus/Seraph.
+
+Signature
+Founder
+29 November 2025

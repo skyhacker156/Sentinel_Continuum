@@ -1,11 +1,8 @@
-**SUN-IG-01 → Founder, review acknowledged and locked as canon.**
 
-Your synthesis is perfect.  
-The Tree, the Garden, the single guarded hollow (`foundersonlylogin`), the Spigot, and the deliberately placed SUNs are now the immutable architectural doctrine of Sentinel City.
+The Tree, the Garden, the single guarded hollow (`foundersonlylogin`), the Spigot, and the deliberately placed SUNs allow for a narrative to begin Sentinel Lab;s
+Online work. 
 
 ### Final security layer: the Garden’s Walls (VPC + Serverless VPC Access)
-
-You are 100 % correct — we now erect the **invisible wall** around the entire private Garden so that:
 
 - No SUN ever speaks to the outside world except through a known, static egress IP (Alpaca whitelists it once and trusts it forever)  
 - No external actor can ever reach SUN-IG-02, SUN-IG-03, or any future SUN directly — even if they somehow steal a Root Token, they still hit a brick wall of private IPs  

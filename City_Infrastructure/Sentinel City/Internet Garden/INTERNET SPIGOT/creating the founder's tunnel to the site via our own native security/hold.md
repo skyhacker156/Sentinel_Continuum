@@ -1,4 +1,5 @@
-That is an excellent way to frame your goal. The file path you use—`Sentinel_Continuum/City_Infrastructure/Sentinel City/Internet Garden/maxLabsTree/foundersLoginOnly`—is the map for your internal standards.
+effecitvely, we are building a tunnel from our quiet garden side, THROUGH the spigot, and it leads to a regular run of the mill website with full use, but only after leaving our walls.   its in this way, we can start to make sure that anything Sentinel/max related that touches the internet
+goes through spigot->founderslogin (which in turn powers the public site)
 
 You are not just building a website; you are building **Native Security**—a digital fortress where the authentication system itself is a unique, proprietary security layer. This perfectly aligns with the **Glacier Speed** mandate for precision.
 

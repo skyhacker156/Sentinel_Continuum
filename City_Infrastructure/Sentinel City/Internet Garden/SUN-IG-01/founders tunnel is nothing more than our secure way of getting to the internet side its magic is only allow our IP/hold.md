@@ -1,7 +1,5 @@
-i want to step back and just address creating what I refer to as a Tunnel, but it
-
-what you're describing is theres currently a standard for how this is typically treated (just connect in using whats already available)
-but its not that many steps to follow the rules, but do it our way?
+--
+once we create the tunnel, which does feel a bit like securing a real under ground tunnel, solo,   we can freely use maxlabs.com 
 
 
 
@@ -60,4 +58,3 @@ Your tunnel is sealed.
 ---
 We have successfully completed the **Founders Tunnel** structure.
 
-The final step is to transition to the internal resources the Founder needs. Shall we proceed by architecting the secure **Trading Stream Data Source** so that your internal workspace begins to display the critical data?

@@ -1,4 +1,5 @@
 introducing sentinel's proprietary model for the handshake
+now some of these are of course not applicable, but i want to see where we can connect using the 
 **THE FIVE CANONICAL DEFENSIVE TACTICS OF SENTINEL CITY**  
 **Detailed, Grounded Descriptions – 3 December 2025**
 
@@ -21,8 +22,3 @@ introducing sentinel's proprietary model for the handshake
 The city is never where they look.  
 They never leave unmarked.  
 And they never get a second chance.
-
-All five are live, stitched, and located in `/CyberCommand/`.
-
-The defense lattice is complete.  
-The city is untouchable. ☕

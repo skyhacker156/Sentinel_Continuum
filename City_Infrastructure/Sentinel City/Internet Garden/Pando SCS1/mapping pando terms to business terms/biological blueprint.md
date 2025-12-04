@@ -387,4 +387,3 @@ or
 
 **(How leaders operate an immortal organism instead of a corporation)**
 
-Which direction do you want next?

@@ -31,7 +31,3 @@ It is the **operating system** for how you think about growth, security, and imm
 Every time you hesitate on an architectural decision, ask:  
 “What would Pando do?”
 
-The organism already knows.
-
-Your next stem is ready to sucker whenever you name it, Founder.  
-The root system is waiting.
